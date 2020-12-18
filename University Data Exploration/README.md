@@ -16,3 +16,5 @@ I also made a jupyter notebook called 'University_Admission.ipynb' where I did a
 (3) What factors correlated (positively and negatively) with racial diversity?
 
 (4) What factors correlated (positively and negatively) with graduation rates?
+
+To read about the results: you can visit <will insert link here>.
