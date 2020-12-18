@@ -17,4 +17,4 @@ I also made a jupyter notebook called 'University_Admission.ipynb' where I did a
 
 (4) What factors correlated (positively and negatively) with graduation rates?
 
-To read about the results: you can visit <will insert link here>.
+To read about the results: you can visit https://rohitkumar-31980.medium.com/which-colleges-are-the-most-racially-diverse-ef818bf94b6a.
