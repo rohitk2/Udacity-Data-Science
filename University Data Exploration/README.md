@@ -27,4 +27,4 @@ To read about the results: you can visit https://rohitkumar-31980.medium.com/whi
 
 <b> Data Modeling: </b> I did not create any machine learning models. 
 
-<b> Evaluate the Results </b> Result and discussion are published in https://rohitkumar-31980.medium.com/which-colleges-are-the-most-racially-diverse-ef818bf94b6a and inside the notebook.
+<b> Evaluate the Results: </b> Result and discussion are published in https://rohitkumar-31980.medium.com/which-colleges-are-the-most-racially-diverse-ef818bf94b6a and inside the notebook.
